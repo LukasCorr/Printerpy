@@ -1,4 +1,4 @@
 Printerpy
 ===============
 
-Example of using pyfiscalprinter with php.
+Example of using a fiscal printer using pyfiscalprinter with php.
